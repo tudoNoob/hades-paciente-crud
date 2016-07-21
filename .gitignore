@@ -1,3 +1,5 @@
-.i*
 build
 
+.iml
+.ipr
+.iws
